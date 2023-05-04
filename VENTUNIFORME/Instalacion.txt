@@ -1,0 +1,12 @@
+1. Copie la carpeta VENTUNIFORME a su servidor local o remoto. En nuestro caso dentro de XAMPP\htdocs
+
+2. Entre a phpmyadmin o a su gestor de base de datos mysql.
+
+3. Importe la base de datos que se encuentra en la carpeta DataBase (Desmarque la casilla "Habilitar la revision de llaves foraneas")
+
+4. Diríjase a la carpeta "library"
+
+5. Abra el archivo configServer.php con su editor de código favorito, y configúrelo con los datos de su servidor.
+
+6. Usuario y clave: admin
+
